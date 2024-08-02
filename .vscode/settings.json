@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Hi_Planet.sln"
+    "dotnet.defaultSolution": "Hi_Planet_Save_The_Earth.sln"
 }
